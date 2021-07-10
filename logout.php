@@ -11,5 +11,5 @@
     unset($_SESSION["loggedin"]);
 }
    session_destroy();
-   header('Location:/BloodBankProj/Index.php');
+   header('Location:/BloodBankProj/Index.html');
    ?>
