@@ -70,7 +70,7 @@
       <nav class="navbar navbar-inverse">
          <div class="container-fluid">
             <ul class="nav navbar-nav navbar-right">
-               <li><a href="/BloodBankProj/Index.php">Home</a></li>
+               <li><a href="/BloodBankProj/Index.html">Home</a></li>
                <li><a href="/BloodBankProj/AvailableBloodSample.php">Available Blood Sample</a></li>
             </ul>
          </div>
@@ -126,7 +126,7 @@
          </div>
          <div class = "form-group">
             <label> Already have an account? <a href="/BloodBankProj/SignIn.php ">Sign in</a>.</label>
-            <p><a href = "/BloodBankProj/Index.php">Home</a></p>
+            <p><a href = "/BloodBankProj/Index.html">Home</a></p>
          </div>
       </form>
    </body>
