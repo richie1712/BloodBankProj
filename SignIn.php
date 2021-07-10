@@ -64,7 +64,7 @@
       <nav class="navbar navbar-inverse">
          <div class="container-fluid">
             <ul class="nav navbar-nav navbar-right">
-               <li><a href="/BloodBankProj/Index.php">Home</a></li>
+               <li><a href="/BloodBankProj/Index.html">Home</a></li>
                <li><a href="/BloodBankProj/AvailableBloodSample.php">Available Blood Sample</a></li>
             </ul>
          </div>
